@@ -1,3 +1,3 @@
 # lurodiff
 
-My attempt at an automatic differentiation library to be used to calculate gradients for a feedforward neural network.
+My attempt at an automatic differentiation library to be used for calculating gradients of a feedforward neural network.
